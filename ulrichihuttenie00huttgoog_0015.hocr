@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./ulrichihuttenie00huttgoog_0015.png"; bbox 0 0 3625 7050; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 266 2273 1441 2406">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 266 2194 1441 2406">
+     <span class='ocr_line' id='line_1_1' title="bbox 266 2273 1441 2406; baseline 0 -3"><span class='ocrx_word' id='word_1_1' title='bbox 266 2273 710 2406; x_wconf 68' lang='lat' dir='ltr'>vasssssfflw</span> <span class='ocrx_word' id='word_1_2' title='bbox 759 2286 1150 2403; x_wconf 61' lang='lat' dir='ltr'><strong>mmmm</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1196 2287 1441 2405; x_wconf 74' lang='lat' dir='ltr'>IENENSI</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 444 2933 1272 3030">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 444 2933 1272 3030">
+     <span class='ocr_line' id='line_1_2' title="bbox 444 2933 1272 3030; baseline 0.001 -2"><span class='ocrx_word' id='word_1_4' title='bbox 444 2935 619 3029; x_wconf 79' lang='lat' dir='ltr'>TERTIA</span> <span class='ocrx_word' id='word_1_5' title='bbox 655 2933 939 3030; x_wconf 76' lang='lat' dir='ltr'>SAECVLARIA</span> <span class='ocrx_word' id='word_1_6' title='bbox 977 2936 1272 3030; x_wconf 77' lang='lat' dir='ltr'><strong>CELEBRANTI</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 539 4304 1170 4402">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 539 4304 1170 4402">
+     <span class='ocr_line' id='line_1_3' title="bbox 539 4304 1170 4402; baseline 0.005 -3"><span class='ocrx_word' id='word_1_7' title='bbox 539 4322 857 4399; x_wconf 76' lang='lat' dir='ltr'>EDVARDVS</span> <span class='ocrx_word' id='word_1_8' title='bbox 890 4304 1170 4402; x_wconf 74' lang='lat' dir='ltr'>BOCKING</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1818 7044">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1818 7044">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1818 7044; baseline 0 0"><span class='ocrx_word' id='word_1_9' title='bbox 0 0 1818 7044; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

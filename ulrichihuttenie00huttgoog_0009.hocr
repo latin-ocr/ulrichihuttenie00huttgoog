@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./ulrichihuttenie00huttgoog_0009.png"; bbox 0 0 3625 7050; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 588 3008 1265 3128">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 588 3008 1265 3128">
+     <span class='ocr_line' id='line_1_1' title="bbox 588 3008 1265 3128; baseline -0.006 -23"><span class='ocrx_word' id='word_1_1' title='bbox 588 3009 816 3105; x_wconf 61' lang='lat' dir='ltr'><strong>&amp;buath</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 866 3008 1113 3128; x_wconf 47' lang='lat' dir='ltr'><strong>flamina</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1263 3067 1265 3070; x_wconf 51' lang='lat'>&lt;</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 539 5250 1160 5590">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 539 5250 1160 5590">
+     <span class='ocr_line' id='line_1_2' title="bbox 757 5250 953 5339; baseline 0.005 -17"><span class='ocrx_word' id='word_1_4' title='bbox 757 5250 953 5339; x_wconf 53' lang='grc' dir='ltr'><strong>πείνης.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 539 5385 1160 5469; baseline -0.011 -19"><span class='ocrx_word' id='word_1_5' title='bbox 539 5387 631 5468; x_wconf 54' lang='grc' dir='ltr'><strong>ᾉῐηὼ</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 653 5396 706 5451; x_wconf 68' lang='lat' dir='ltr'><strong>nub</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 726 5385 831 5464; x_wconf 56' lang='lat' dir='ltr'><strong>tulna</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 853 5411 904 5451; x_wconf 74' lang='lat' dir='ltr'><strong>nnn</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 929 5385 1160 5469; x_wconf 57' lang='lat' dir='ltr'><strong>§.watham</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 811 5521 899 5590; baseline -0.011 0"><span class='ocrx_word' id='word_1_10' title='bbox 811 5521 899 5590; x_wconf 72' lang='lat'>1859.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1818 7044">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1818 7044">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1818 7044; baseline 0 0"><span class='ocrx_word' id='word_1_11' title='bbox 0 0 1818 7044; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

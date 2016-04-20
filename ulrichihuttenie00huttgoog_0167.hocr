@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./ulrichihuttenie00huttgoog_0167.png"; bbox 0 0 3625 7050; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 753 2229 1522 2546">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 854 2229 1522 2471">
+     <span class='ocr_line' id='line_1_1' title="bbox 959 2229 1522 2353; baseline 0.012 -16.753"><span class='ocrx_word' id='word_1_1' title='bbox 959 2229 1522 2353; x_wconf 61' lang='lat' dir='ltr'>,nmmomoenffl-</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 753 2370 1465 2546; baseline 0 -75"><span class='ocrx_word' id='word_1_2' title='bbox 753 2370 1185 2545; x_wconf 61' lang='grc' dir='ltr'>ΜΜ</span> <span class='ocrx_word' id='word_1_3' title='bbox 1215 2372 1465 2546; x_wconf 55' lang='grc' dir='ltr'>ΜΨ</span> <span class='ocrx_word' id='word_1_4' title='bbox 1414 2373 1464 2388; x_wconf 89' lang='lat'>··</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 1818 7044">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 1818 7044">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 1818 7044; baseline 0 0"><span class='ocrx_word' id='word_1_5' title='bbox 0 0 1818 7044; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
